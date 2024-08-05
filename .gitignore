@@ -4,11 +4,21 @@
 # ...except for:
 !*tutorial0_install-setup.pdf
 !*tutorial1_firststeps.pdf
+!*tutorial2_gettingtoknow.pdf
+!*tutorial3_datacleaning.pdf
+!*tutorial4_visualization.pdf
+!*tutorial5_confint.pdf
+!*tutorial6_tabanalysis.pdf
+!*tutorial7a_ttest.pdf
+!*tutorial7b_correl.pdf
+!*tutorial8_bivOLS.pdf
+!*tutorial9_multOLS.pdf
+!*tutorial10_interact.pdf
+!*tutorial11_logit.pdf
 
 
 # from Github template
 ######################
-
 
 # History files
 .Rhistory
